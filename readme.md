@@ -1,8 +1,8 @@
 BibTeX Bibliography companion_applied_mathematics.bib
 ===========
 
-A BibTeX bibliography for
-[http://www.ma.man.ac.uk/~higham/pcam/index.php](The Princeton Companion to Applied Mathematics).
+A BibTeX bibliography for [The Princeton Companion to Applied
+Mathematics](http://www.ma.man.ac.uk/~higham/pcam/index.php).
 
 Contents
 ---------
