@@ -31,8 +31,8 @@ Note
 ----
 
 Each entry in the bib file contains the full book details.  If you would
-like a version of this bibliography that uses the BibTeX crossref field,
-which can create "in ..." cross-references in the reference list to an entry
-for the book, see the
+like a version of this bibliography that uses the BibTeX `crossref` field,
+which can create "in ..." cross-references to an entry
+for the book in the reference list, see the
 [BibNet version of the bibliography](http://ftp.math.utah.edu/pub/bibnet/subjects/companion-applied-mathematics.bib)
 made by Nelson Beebe.
