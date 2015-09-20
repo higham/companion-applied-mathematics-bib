@@ -26,3 +26,13 @@ the book.
 
 * `companion_applied_mathematics_unsorted.pdf`: The result of running
   pdfLaTeX and BibTeX on `companion_applied_mathematics_unsorted.tex`.
+
+Note
+----
+
+Each entry in the bib file contains the full book details.  If you would
+like a version of this bibliography that uses the BibTeX crossref field,
+which can create "in ..." cross-references in the reference list to an entry
+for the book, see the
+[BibNet version of the bibliography](http://ftp.math.utah.edu/pub/bibnet/subjects/companion-applied-mathematics.bib)
+made by Nelson Beebe.
